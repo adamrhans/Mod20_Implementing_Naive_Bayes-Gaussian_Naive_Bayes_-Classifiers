@@ -1,12 +1,10 @@
-<<<<<<< HEAD
 # Project: Implementing Naive Bayes and Gaussian Naive Bayes Classifiers
 ---
 
 #### Overview
 I will implement Naïve Bayes and Gaussian Naïve Bayes classifiers using the Python Scikit-learn library. In the first part of the assignment, you will be working with a sample dataset to implement a simple Naïve Bayes classifier that classifies the data into binary values.
-=======
+
 I will implement Naïve Bayes and Gaussian Naïve Bayes classifiers using the Python Scikit-learn library. In the first part of the assignment, I will be working with a sample dataset to implement a simple Naïve Bayes classifier that classifies the data into binary values.
->>>>>>> f276241f17fabffd42f5de1669ee03f052f9afef
 
 In the second part, I will extend my Naïve Bayes classifier to make predictions on more than two labels using the Wine dataset from the Scikit-learn library.
 
