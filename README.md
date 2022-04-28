@@ -1,5 +1,4 @@
 # Project: Implementing Naive Bayes and Gaussian Naive Bayes Classifiers
----
 
 ### Overview
 I will implement Naïve Bayes and Gaussian Naïve Bayes classifiers using the Python Scikit-learn library. In the first part of the assignment, you will be working with a sample dataset to implement a simple Naïve Bayes classifier that classifies the data into binary values.
